@@ -4,7 +4,7 @@ function addGradient(){
     let gradient = document.createElement('div');
     gradient.style.width = '100%';
     gradient.style.height = '100%';
-    gradient.style.background = "linear-gradient(to right, rgba(67, 130, 53, 0.67), rgba(4, 198, 198, 0.62) 100%)";
+    gradient.style.background = "linear-gradient(to right, rgba(27, 71, 45, 0.84), rgba(6, 72, 165, 0.84 100%)";
     gradient.style.zIndex = "2";
     gradient.style.position = "fixed";
     document.body.appendChild(gradient);
